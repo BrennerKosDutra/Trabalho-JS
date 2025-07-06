@@ -11,3 +11,4 @@ function isPalindromo(word) {
 }
 
 isPalindromo("Radar");
+//Verificador de Palíndromo.
