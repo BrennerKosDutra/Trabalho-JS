@@ -20,3 +20,5 @@ function separarParesImpares(array) {
 }
 
 console.log(separarParesImpares(numeros));
+
+//Esse código separa os números do array em dois grupos: pares e ímpares, e retorna um objeto com essas duas listas.
