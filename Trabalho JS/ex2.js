@@ -13,3 +13,4 @@ function ordernarPrioridade(personsArray) {
 }
 
 console.log(ordernarPrioridade(pessoas));
+//Esse código ordena o array pessoas em ordem crescente de idade e retorna o array ordenado.
