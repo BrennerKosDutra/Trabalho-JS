@@ -17,3 +17,5 @@ function contarOcorrencias(array) {
 }
 
 console.log(contarOcorrencias(listaNumeros));
+
+//Conta quantas vezes cada número aparece na lista listaNumeros e retorna um objeto com o número como chave e a quantidade de ocorrências como valor.
